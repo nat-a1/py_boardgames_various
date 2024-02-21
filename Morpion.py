@@ -2,7 +2,7 @@ import numpy as np
 from scipy.signal import convolve2d
 
 """
-    this is tic tac toe!
+    tic tac toe
     players in this code are represented by numbers (-1 and 1)
     (this is for matrix convenience)
 """
